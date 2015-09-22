@@ -1,1 +1,4 @@
 *.pyc
+build/*
+dist/*
+turpial_sessions.egg-info/*
